@@ -27,11 +27,10 @@ This is the menu for when you open an existing tracker, which will display your 
 3. Remove expense
 4. Update tracker name
 5. Export tracker
-6. Delete tracker
-7. Discard changes and exit
-8. Save and exit
+6. Discard changes and exit
+7. Save and exit
 
-You have the choice to add/delete/update the entries in each dictionary assigning the type of expense as keys, and then a dictionary of costs, how often you pay this item, and the dates these costs are incurred.
+You have the choice to add/delete/update the entries in each dictionary assigning the type of expense as keys, and then a dictionary of costs, and the dates these costs are incurred.
 
 The sum of the values in each dictionary will be compared to the proposed % allowance you give for each pot and informs you if you are under or over the allowance you set up, so you know if you need to rebalance your allowance better or not.
 
