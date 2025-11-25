@@ -35,3 +35,16 @@ You have the choice to add/delete/update the entries in each dictionary assignin
 The sum of the values in each dictionary will be compared to the proposed % allowance you give for each pot and informs you if you are under or over the allowance you set up, so you know if you need to rebalance your allowance better or not.
 
 When exporting the tracker, it will create a csv file that you can use which details all of your expenses, which pots they are in, and its further details you've provided for each expense
+
+Lessons learned:
+Python data structures:
+- this project has helped me reinforce my understanding of dictionaries and lists, and how to organise nested data
+
+User input validation:
+- practicing putting in validation code to ensure the variables of my code are in the correct format and preventing errors and crashes down the line
+
+Menu design and user experience:
+- desigining a simple command line interface menu and learning to build more intuitive interfaces, and handling user actions
+
+CSV export logic:
+- creating a CSV export to practice file I/O and structuring data for external use
