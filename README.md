@@ -36,7 +36,8 @@ The sum of the values in each dictionary will be compared to the proposed % allo
 
 When exporting the tracker, it will create a csv file that you can use which details all of your expenses, which pots they are in, and its further details you've provided for each expense
 
-Lessons learned:
+### Lessons learned
+
 Python data structures:
 - this project has helped me reinforce my understanding of dictionaries and lists, and how to organise nested data
 
